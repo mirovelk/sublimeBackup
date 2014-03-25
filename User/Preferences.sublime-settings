@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/base16-eighties.dark (SL).tmTheme",
+	"font_face": "Source Code Pro Regular",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"theme": "Spacegray Eighties.sublime-theme"
+}
