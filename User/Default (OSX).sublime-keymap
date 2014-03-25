@@ -1,0 +1,5 @@
+[
+		{ "keys": ["ctrl+s"], "command": "toggle_side_bar" },
+		{ "keys": ["ctrl+c"], "command": "toggle_comment", "args": { "block": false } }
+
+]
